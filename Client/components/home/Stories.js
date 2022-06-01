@@ -1,7 +1,7 @@
 import { View, Text, ScrollView, Image, StyleSheet } from "react-native";
 import React from "react";
 import { Users } from "../../dummyData/Users";
-import { Divider } from "react-native-elements";
+
 
 const Stories = () => {
   return (

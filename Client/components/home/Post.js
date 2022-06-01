@@ -1,6 +1,6 @@
 import { View, Text, Image, StyleSheet, TouchableOpacity } from "react-native";
 import React from "react";
-import { Divider } from "react-native-elements";
+
 
 const postFooterIcons = [
   {

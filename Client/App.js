@@ -1,8 +1,12 @@
 import { View, Text } from "react-native";
-import HomeScreen from "./screens/HomeScreen";
+import 'react-native-gesture-handler';
+
+import SignedInStack from "./navigation";
+
+
 
 export default function App() {
   return (
-    <HomeScreen />
+    <SignedInStack />
   );
 }
